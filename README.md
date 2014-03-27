@@ -13,10 +13,10 @@ Two products come to mind that are vaguely similar, Plaxo and a certain corner o
 
 ### to do
 
-- [ ] define better right here
-- [ ] decide on path of least resistance to minimal working instance
-- [ ] assemble that
-- [x] think about this
+- define better right here
+- decide on path of least resistance to minimal working instance
+- assemble that
+
 
 
 
