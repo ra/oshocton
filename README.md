@@ -5,11 +5,19 @@ share ID per service per person
 
 Some use cases and some things with which you may be familiar that are vaguely similar.
 
-Take Alice and Bob (or Angela and Barack or...). Alice owns a space where Bob has write permission for details about himself that he shares with her. What email address should she use to send to him? Has it changed? He controls that — uniquely for her point of view.
+Take Alice and Bob (or Angela and Barack or...).
 
-This is intended to be interpersonal and to underscore who owns these details, even though their use is extended to the person who possesses the container. Perhaps a safe deposit box is a useful comparison, although there is more symmetry with what is proposed here.
+Usually Alice has an address book, perhaps close to her email, where she has an entry for Bob. Alice owns the whole shebang. But isn't Bob's email address _his_ info? What if his phone number changes? Even if briefly. ...
 
-Two products come to mind that are vaguely similar, Plaxo and a certain corner of Google+.
+Two products come to mind that are vaguely similar, Plaxo and a certain corner of Google+. The first shifted ownership of the pointers (an email address for example) but it was annoying and used email as its main vehicle. G+ has a section in one's profile where I own my pointers. In the profile it's not very granular, and who owns what is traditional.
+
+====to do====
+
+- [ ] define better right here
+- [ ] decide on path of least resistance to minimal working instance
+- [ ] assemble that
+- [ ]
+- [ ]
 
 This may or may not become a final project for `CS50.`
 
