@@ -10,11 +10,14 @@ Usually Bob has an address book, perhaps close to his email, where he has an ent
 
 The 2013 addressbook is a many-to-one mapping, and all those addresses, phone numbers and GitHub names. But this conception is of one container for one direction of one realtionship. Say Bob's container, with all the contact details that Alice shares with him. She has full write permission about herself in his container. For his use finding her. So, for one direction of one realtionship there is a rich and newly owned list of details. This container could be alongside some others but it is, generally, at a place of their choosing, convenient for that relationship.
 
+The only thing still looking like the 2013 address book is a two-column table. Name and location of container.
+
 
 ### to do
 
 - decide on path of least resistance to minimal working instance
 - assemble that
+- find better synonym for container
 
 
 
