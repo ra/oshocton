@@ -13,7 +13,6 @@ The 2013 addressbook is a many-to-one mapping, and all those addresses, phone nu
 
 ### to do
 
-- define somewhat better right here
 - decide on path of least resistance to minimal working instance
 - assemble that
 
